@@ -1,0 +1,23 @@
+{
+  "author":"SUPINFO AppFactory"
+,"pluginName":"Google Slides",
+  "pluginDescription":"Google Slides makes your ideas shine with a variety of presentation themes, hundreds of fonts, embedded video, animations, and more.Related Topics:Google Plus, Students"
+,"supportEmail":"supinfoappfactory@supinfo.com"
+,"pluginIcon": "icon.png"
+, "supportSite":"http://support.appdocumentation.com/knowledge-base/google-slides-plugin-tutorial/"
+,"control":{
+  "content":{
+    "enabled":true
+  }
+, "design":{
+    "enabled":false
+  }
+, "settings":{
+    "enabled":false
+  }
+}
+,"widget":{
+},
+  "features" : [],
+  "languages" : ["en"]
+}
