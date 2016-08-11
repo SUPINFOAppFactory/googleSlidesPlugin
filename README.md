@@ -1,6 +1,6 @@
 # placesPlugin 
-googleSlidesPlugin
 
+Google Slides makes your ideas shine with a variety of presentation themes, hundreds of fonts, embedded video, animations, and more.
 
 ### Plugin overview 
 
