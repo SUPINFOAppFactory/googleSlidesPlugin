@@ -1,6 +1,10 @@
 # placesPlugin 
-SUPINFO AppFActory Plugin: googleSlidesPlugin
+googleSlidesPlugin
 
+
+### Plugin overview 
+
+http://support.appdocumentation.com/knowledge-base/google-slides-plugin-tutorial
 
 ##How to run and test
 ###Prerequisite are node.js,bower,npm,karma, karma-coverage
