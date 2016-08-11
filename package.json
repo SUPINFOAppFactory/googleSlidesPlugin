@@ -13,7 +13,7 @@
     "karma",
     "jasmine"
   ],
-  "author": "SUPINFO AppFactory",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bower": "^1.5.3",
